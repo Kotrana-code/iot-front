@@ -1,0 +1,7 @@
+{
+  "name": "empreint-digitale",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
